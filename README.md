@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Barloy Ronald</h1>
 <h3 align="center">A passionate by (foxes) web development from Belgium</h3>
 
-- 🌱 I’m currently learning **C++ and Go**
+- 🌱 I’m currently learning **Go**
 
 - 👨‍💻 All of my projects are available at [https://ronaldbarloy.com](https://ronaldbarloy.com)
 
