@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi 👋, I'm Barloy Ronald</h1>
+<h1 align="center">Hi 👋, I'm Ronald</h1>
 <h3 align="center">A passionate by (foxes) web development from Belgium</h3>
 
 - 🌱 I’m currently learning **C++**
